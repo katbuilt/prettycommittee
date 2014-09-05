@@ -1,4 +1,4 @@
-prettycommittee
+The Gitty Bitty Pretty Committee
 ===============
 
-The Gitty Bitty Pretty Committee: a collection of open-source snippets for cute / kawaii / girly style code.
+A collection of open-source snippets for cute / kawaii / girly style code.
